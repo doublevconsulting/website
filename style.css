@@ -295,7 +295,7 @@ body {
 
 .team-image {
     position: relative;
-    height: 250px; /* Fixed height */
+    height: 370px; /* Fixed height */
     overflow: hidden;
     background: rgba(103, 41, 179, 0.1); /* Fallback */
 }
